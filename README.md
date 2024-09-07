@@ -1,1 +1,1 @@
-# inastall
+# install
